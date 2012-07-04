@@ -1,0 +1,5 @@
+#External Dependencies
+#Wed Jul 04 12:25:43 CDT 2012
+/opt/java/jdk1.7.0_02/jre/lib/rt.jar=LiftProject.scala
+/home/hector/lift/desarrollo/recaptcha/project/boot/scala-2.7.7/lib/scala-library.jar=LiftProject.scala
+/home/hector/lift/desarrollo/recaptcha/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7/sbt_2.7.7-0.7.7.jar=LiftProject.scala

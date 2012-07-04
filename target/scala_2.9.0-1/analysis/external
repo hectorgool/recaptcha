@@ -1,0 +1,10 @@
+#External Dependencies
+#Wed Jul 04 12:26:27 CDT 2012
+/home/hector/lift/desarrollo/recaptcha/project/boot/scala-2.9.0-1/lib/scala-library.jar=src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/snippet/Stateful.scala\:src/main/scala/code/model/User.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/HelloWorld.scala
+/opt/java/jdk1.7.0_02/jre/lib/rt.jar=src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/snippet/Stateful.scala\:src/main/scala/code/model/User.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/HelloWorld.scala
+/home/hector/lift/desarrollo/recaptcha/lib_managed/scala_2.9.0-1/compile/lift-common_2.9.0-1-2.4.jar=src/main/scala/code/snippet/Stateful.scala\:src/main/scala/code/model/User.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/HelloWorld.scala
+/home/hector/lift/desarrollo/recaptcha/lib_managed/scala_2.9.0-1/compile/lift-mapper_2.9.0-1-2.4.jar=src/main/scala/code/model/User.scala\:src/main/scala/bootstrap/liftweb/Boot.scala
+/home/hector/lift/desarrollo/recaptcha/lib_managed/scala_2.9.0-1/compile/lift-webkit_2.9.0-1-2.4.jar=src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/snippet/Stateful.scala\:src/main/scala/bootstrap/liftweb/Boot.scala
+/home/hector/lift/desarrollo/recaptcha/lib_managed/scala_2.9.0-1/compile/lift-util_2.9.0-1-2.4.jar=src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/snippet/Stateful.scala\:src/main/scala/code/model/User.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/HelloWorld.scala
+/home/hector/lift/desarrollo/recaptcha/lib_managed/scala_2.9.0-1/compile/lift-proto_2.9.0-1-2.4.jar=src/main/scala/code/model/User.scala\:src/main/scala/bootstrap/liftweb/Boot.scala
+/home/hector/lift/desarrollo/recaptcha/lib_managed/scala_2.9.0-1/compile/lift-db_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala
